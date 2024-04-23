@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Turismo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Explorador Turistico</string>
+    <string name="nav_header_subtitle">virtual@ulp.edu.ar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_configuracion">Configuracion</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_salir">Salir</string>
+    <string name="menu_lugares">Lugares</string>
+    <!--Descripciones de los lugares-->
+    <string name="des_quijadas">En la provincia de San Luis, un magnífico reservorio natural que ofrece un paisaje de valles y quebradas, cuyas extrañas y encantadoras formas han sido esculpidas por un proceso erosivo a través de millones de años. Senderos para andar entre enormes cañadones, yacimientos arqueológicos, huellas de dinosaurios y troncos petrificados</string>
+    <string name="des_saltomoneda">Muy cerca de la ciudad de San Luis accediendo desde la localidad de Potrero de los Funes, se encuentra el Salto de la Moneda, un impresionante salto de agua de 15 metros, después de transitar 10 metros por el cauce del río desemboca en dos piletones naturales de aguas transparentes de entre 5 y 3 metros de profundidad y 6 de diametro.</string>
+    <string name="des_museosanluis">El Museo Histórico de San Luis es una visita obligada para aquellos interesados en conocer la rica historia de la provincia. Ubicado en el centro de la ciudad, este museo cuenta con una amplia colección de exhibiciones que abarcan desde los primeros habitantes nativos de la región hasta la actualidad.</string>
+    <string name="des_minacondores">La actual actividad recreativa propone al visitante un descenso por el socavón y una caminata por algunos de los tramos de los profundos túneles subterráneos, que llegaron a extenderse hasta 16 km en sus tiempos de gloria, y que la constituyeron por ese entonces en el emprendimiento de tungsteno más grande del país y el segundo en Sudamérica. </string>
+    <string name="des_sanignacio">El Chorro de San Ignacio, una caída de agua en el cauce del río que nace entre las Sierras de los Comechingones.Este salto de agua está ubicado entre las localidades de Papagayos y Villa Larca (Departamento Chacabuco).Siguiendo el cauce del arroyo hacia el este, se encuentra este salto con 25 mts. de altura.</string>
+    <string name="des_rutamacizo">La Ruta del Macizo Central es una experiencia imperdible para los amantes de la naturaleza y los paisajes impresionantes. Este camino, también conocido como El camino de los 5 lagos, atraviesa las sierras centrales de San Luis y ofrece vistas panorámicas espectaculares a lo largo de sus 51 kilómetros de extensión.</string>
+    <string name="des_pueblopuntano">Este monumento fue inaugurado en 1991 en Juana Koslay, a sólo 13 km de San Luis capital por ruta Provincial Nº 20 y Provincial Nº 3. Este monumento se encuentra en el denominado Parque Provincial Campamento de las Chacras, emplazado en el mismo lugar que se armó el campamento de para reunir a los granaderos para la gesta de la independencia.</string>
+    <string name="des_terrazas">Terrazas del Portezuelo es la denominación de un conjunto de edificios y parque cívico el cual incluye a la Casa de Gobierno de la provincia de San Luis, Argentina, primer edificio ecológico público del país, inaugurado el 9 de julio de 2010 (13 años) como homenaje al bicentenario de la Revolución de Mayo.</string>
+    <string name="des_monasterio">Ubicado en el Suyuque Nuevo, San Luis, es un monasterio de monjas benedictinas y contemplativas que viven según la Regla de San Benito. Está ubicado en medio de las Sierras de San Luis, en el paraje Suyuque Nuevo, existe la posibilidad de hospedarse y conocer la vida de la comunidad monástica.</string>
+    <string name="des_catedral">La Catedral fue escenario de la Jura de la Independencia en 1816; y en 1975 fue declarada Lugar Histórico Nacional. Constituye por todo esto un sitio de gran valor histórico, religioso y cultural que no puede omitir en su itinerario por San Luis.Se halla emplazada sobre calle Rivadavia, frente a la Plaza Juan Pascual Pringles.</string>
+    <string name="des_lahoya">El cauce del río el Volcán forma una hoya natural de piedra con una profundidad promedio de 3 metros, siendo esta uno de los balnearios más populares de la provincia. Además el lugar cuenta con todos los servicios indispensables para el visitante.</string>
+    <string name="des_nogoli">Extendiéndose por una superficie de 140 hectáreas sobre el Río Nogolí, este dique es considerado uno de los más bellos y puros de la provincia de San Luis. Hace honor a su nombre y el de la localdiad homonima a la expresión indígena que significa «aguas claras».</string>
+    <string name="des_salinas">Las Salinas del Bebedero se encuentran en el centro-oeste de la provincia de San Luis, a unos 40 Km de la capital puntana y a unos 15 Km de la localidad de Balde que es el pueblo más cercano donde también están las Termas de Balde.</string>
+    <string name="des_hito">Es una torre emplazada junto al “Edificio de Terrazas del Portezuelo” construida en homenaje al bicentenario patrio. Es una obra única en la Argentina, dotada de 130 metros de altura que incluye un mirador desde donde se observa  a la ciudad de San Luis y a las localidades cercanas a través de binoculares instalados en el mismo.</string>
+    <string name="des_laflorida">El Embalse La Florida se encuentra ubicado a 47 km al noreste de su ciudad capital, a través de la Ruta Provincial 9. Al pie de las Sierras de San Luis, toma las aguas del Río Grande y del río Trapiche. A partir de allí, da nacimiento al río Quinto. Cubre unas 704 hectareas, con un ancho máximo de 4 km y una profundidad media de 12 m.</string>
+    <string name="des_bajoveliz">Este parque es una verdadera puerta al pasado más remoto donde los amantes de la paleontología, la arqueología y los orígenes de la vida encontrarán tesoros de más de 268 millones de años. </string>
+    <string name="des_lashuertitas">Las tranquilas y claras aguas del Dique La Huertita forman un maravilloso espejo de agua de 430 hectáreas de superficie. Este dique fue inaugurado en 1981 sobre la cuenca del río Quines y los arroyos La Huertita y Jordán. Está ubicado en el centro de la provincia en el departamento San Martín.</string>
+    <!--Horario de los lugares-->
+    <string name="horario01">Todo el dia</string>
+    <string name="horario02">De 8hs a 18hs</string>
+</resources>
